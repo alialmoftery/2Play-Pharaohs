@@ -1,6 +1,6 @@
 token= NTI0MDY4NjQ3OTU0NTQ2Njg4.DvitmA.6FMJC6Yo-lC81zjk-dizBWHHq6Y
 owner= 365696019629080576
-prefix= pplay
+prefix= p
 game= Type pplay
 stayinchannel=true 
 songinstatus=false 
