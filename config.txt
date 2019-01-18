@@ -1,6 +1,6 @@
-token= NTI0MDY4NjQ3OTU0NTQ2Njg4.DvitmA.6FMJC6Yo-lC81zjk-dizBWHHq6Y
-owner= 365696019629080576
-prefix= p
-game= Type pplay
+token= NTM1NjQxMTk5NDUzOTI5NDg3.DyLQEw.4TNKdnVD4hLgkAY9GArnntDdWx0
+owner= 525789275162279936
+prefix= 2
+game= welcome...💔
 stayinchannel=true 
 songinstatus=false 
